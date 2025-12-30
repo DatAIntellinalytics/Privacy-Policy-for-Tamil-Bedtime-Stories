@@ -7,9 +7,9 @@ Tamil Bedtime Stories (“we,” “our,” or “us”) provides Tamil bedtime 
 1. Information We Collect
 We may collect the following information:
 
-a) Personal Information via Google Sign-In:
-   - Name
-   - Email address
+a) Personal Information via Contact form:
+   - Name (optional)
+   - Email address (optional)
    - Profile information (basic)
 
 b) Device and Usage Information:
@@ -22,7 +22,6 @@ c) Advertising Data:
    
 2. How We Use the Information
 We use the information for:
-- Authentication (Google Sign-In)
 - Displaying relevant ads through AdMob
 - App analytics to improve user experience
 
@@ -32,7 +31,7 @@ We do not sell or rent personal information. Data may be shared with:
 - Analytics providers (if any)
 
 4. Children’s Privacy
-Our app content is directed toward children. We do not knowingly collect personal information from children under 13 without parental consent. Parents using Google Sign-In provide their consent by logging in.
+Our app content is directed toward children. We do not knowingly collect personal information from children under 13 without parental consent.
 
 5. Data Security
 We take reasonable measures to protect collected information. All sensitive information is transmitted securely through encryption handled by Google services.
